@@ -1,0 +1,70 @@
+{
+  "preguntas": [
+    {
+      "ID_Pregunta": "SESG_001",
+      "Sesgo_Nidificado": "Confirmación / Groupthink",
+      "Tipo_Pregunta": "Escala1a5",
+      "Texto_Pregunta": "Priorizamos cerrar la decisión rápidamente para asegurar el consenso y mantener la armonía del colectivo.",
+      "Taxonomia_Afectada": "Relacional (Quipu)",
+      "Penalizacion_Si": 0.0,
+      "Penalizacion_Nivel4": 0.1,
+      "Penalizacion_Nivel5": 0.15,
+      "Efecto_Diagnostico_IA": "Alerta de Pensamiento de Grupo. El consenso artificial bloqueó la evaluación crítica del riesgo."
+    },
+    {
+      "ID_Pregunta": "SESG_002",
+      "Sesgo_Nidificado": "Confirmación / Groupthink",
+      "Tipo_Pregunta": "SiNo",
+      "Texto_Pregunta": "¿Hubo miembros del equipo que prefirieron ocultar sus dudas o desacuerdos sobre esta decisión antes de ser aprobada?",
+      "Taxonomia_Afectada": "Relacional (Quipu)",
+      "Penalizacion_Si": 0.15,
+      "Penalizacion_Nivel4": 0.0,
+      "Penalizacion_Nivel5": 0.0,
+      "Efecto_Diagnostico_IA": "Silencio Crítico Detectado. Se erosionó el capital relacional interno por una falsa sensación de paz."
+    },
+    {
+      "ID_Pregunta": "SESG_003",
+      "Sesgo_Nidificado": "Anclaje / Costo Hundido",
+      "Tipo_Pregunta": "Escala1a5",
+      "Texto_Pregunta": "Mantuvimos esta ruta de acción principalmente porque ya le habíamos invertido mucho esfuerzo, aunque sabíamos que no funcionaba.",
+      "Taxonomia_Afectada": "Adaptativa (Camino al andar)",
+      "Penalizacion_Si": 0.0,
+      "Penalizacion_Nivel4": 0.12,
+      "Penalizacion_Nivel5": 0.2,
+      "Efecto_Diagnostico_IA": "Trampa de Costo Hundido. El colectivo sigue quemando recursos en una vía muerta por apego al pasado."
+    },
+    {
+      "ID_Pregunta": "SESG_004",
+      "Sesgo_Nidificado": "Anclaje / Costo Hundido",
+      "Tipo_Pregunta": "SiNo",
+      "Texto_Pregunta": "¿Esta decisión estuvo totalmente condicionada por la primera idea, presupuesto o propuesta de diseño que se puso sobre la mesa?",
+      "Taxonomia_Afectada": "Interna (Pájaro en mano)",
+      "Penalizacion_Si": 0.15,
+      "Penalizacion_Nivel4": 0.0,
+      "Penalizacion_Nivel5": 0.0,
+      "Efecto_Diagnostico_IA": "Anclaje de Entrada. Se redujo el espectro de exploración creativa al amarrarse al primer dato recibido."
+    },
+    {
+      "ID_Pregunta": "SESG_005",
+      "Sesgo_Nidificado": "Exceso de Confianza / Invulnerabilidad",
+      "Tipo_Pregunta": "Escala1a5",
+      "Texto_Pregunta": "Asumimos que cualquier problema técnico o falta de recursos derivado de esto se solucionaría fácil gracias al talento del equipo.",
+      "Taxonomia_Afectada": "Interna (Pájaro en mano)",
+      "Penalizacion_Si": 0.0,
+      "Penalizacion_Nivel4": 0.1,
+      "Penalizacion_Nivel5": 0.15,
+      "Efecto_Diagnostico_IA": "Ilusión de Capacidad. Subestimación de los requerimientos reales del motor o flujo de desarrollo."
+    },
+    {
+      "ID_Pregunta": "SESG_006",
+      "Sesgo_Nidificado": "Exceso de Confianza / Invulnerabilidad",
+      "Tipo_Pregunta": "SiNo",
+      "Texto_Pregunta": "¿Se obvió la planificación de un plan de contingencia o ruta alternativa (Plan B) por asumir que la idea era infalible?",
+      "Taxonomia_Afectada": "Adaptativa (Camino al andar)",
+      "Penalizacion_Si": 0.15,
+      "Penalizacion_Nivel4": 0.0,
+      "Penalizacion_Nivel5": 0.0,
+      "Efecto_Diagnostico_IA": "Exposición Adaptativa. El colectivo navega sin salvavidas ante la incertidumbre del entorno."
+    }
+  ]
+}

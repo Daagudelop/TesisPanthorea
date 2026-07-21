@@ -1,0 +1,204 @@
+{
+  "preguntas": [
+    {
+      "ID_Pregunta": "INT_001",
+      "Eje_Tematico": "Interna",
+      "Tipo_Pregunta": "Escala1a5",
+      "Criterio_Asociado": "Disponibilidad de recursos",
+      "Texto_Pregunta": "Contábamos con los recursos (tiempo, presupuesto, equipo) necesarios antes de iniciar esta decisión.",
+      "Peso_Eficacia": 0.5,
+      "Peso_Eficiencia": 0.5,
+      "Polaridad": "Positiva"
+    },
+    {
+      "ID_Pregunta": "INT_002",
+      "Eje_Tematico": "Interna",
+      "Tipo_Pregunta": "SiNo",
+      "Criterio_Asociado": "Disponibilidad de recursos",
+      "Texto_Pregunta": "¿Se utilizaron capacidades, conocimientos o herramientas técnicas que el colectivo ya tenía totalmente disponibles?",
+      "Peso_Eficacia": 0.0,
+      "Peso_Eficiencia": 1.0,
+      "Polaridad": "Positiva"
+    },
+    {
+      "ID_Pregunta": "INT_003",
+      "Eje_Tematico": "Interna",
+      "Tipo_Pregunta": "Escala1a5",
+      "Criterio_Asociado": "Viabilidad técnica",
+      "Texto_Pregunta": "La complejidad técnica del desarrollo de esta decisión estuvo dentro de lo que el equipo puede controlar y realizar.",
+      "Peso_Eficacia": 0.0,
+      "Peso_Eficiencia": 1.0,
+      "Polaridad": "Positiva"
+    },
+    {
+      "ID_Pregunta": "INT_004",
+      "Eje_Tematico": "Interna",
+      "Tipo_Pregunta": "SiNo",
+      "Criterio_Asociado": "Viabilidad técnica",
+      "Texto_Pregunta": "¿La decisión requirió adquirir una herramienta o conocimiento técnico completamente nuevo para el colectivo?",
+      "Peso_Eficacia": 0.3,
+      "Peso_Eficiencia": 0.7,
+      "Polaridad": "Negativa"
+    },
+    {
+      "ID_Pregunta": "INT_005",
+      "Eje_Tematico": "Interna",
+      "Tipo_Pregunta": "Escala1a5",
+      "Criterio_Asociado": "Interés del equipo",
+      "Texto_Pregunta": "La ejecución de esta tarea estuvo totalmente alineada con la motivación real y el interés actual de los miembros del equipo.",
+      "Peso_Eficacia": 0.2,
+      "Peso_Eficiencia": 0.8,
+      "Polaridad": "Positiva"
+    },
+    {
+      "ID_Pregunta": "INT_006",
+      "Eje_Tematico": "Interna",
+      "Tipo_Pregunta": "SiNo",
+      "Criterio_Asociado": "Interés del equipo",
+      "Texto_Pregunta": "¿Hubo miembros del equipo claramente desmotivados o desinteresados en ejecutar esta decisión?",
+      "Peso_Eficacia": 0.4,
+      "Peso_Eficiencia": 0.6,
+      "Polaridad": "Negativa"
+    },
+    {
+      "ID_Pregunta": "INT_007",
+      "Eje_Tematico": "Interna",
+      "Tipo_Pregunta": "Escala1a5",
+      "Criterio_Asociado": "Tiempo requerido",
+      "Texto_Pregunta": "El tiempo invertido en debatir y ejecutar esta acción se mantuvo dentro de los límites viables y planificados.",
+      "Peso_Eficacia": 0.0,
+      "Peso_Eficiencia": 1.0,
+      "Polaridad": "Positiva"
+    },
+    {
+      "ID_Pregunta": "INT_008",
+      "Eje_Tematico": "Interna",
+      "Tipo_Pregunta": "SiNo",
+      "Criterio_Asociado": "Tiempo requerido",
+      "Texto_Pregunta": "¿La decisión se ejecutó dentro del plazo originalmente estimado?",
+      "Peso_Eficacia": 0.0,
+      "Peso_Eficiencia": 1.0,
+      "Polaridad": "Positiva"
+    },
+    {
+      "ID_Pregunta": "REL_001",
+      "Eje_Tematico": "Relacional",
+      "Tipo_Pregunta": "Escala1a5",
+      "Criterio_Asociado": "Oportunidad emergente",
+      "Texto_Pregunta": "Esta decisión ayudó a expandir o consolidar la red de alianzas y compromisos con actores externos clave.",
+      "Peso_Eficacia": 0.8,
+      "Peso_Eficiencia": 0.2,
+      "Polaridad": "Positiva"
+    },
+    {
+      "ID_Pregunta": "REL_002",
+      "Eje_Tematico": "Relacional",
+      "Tipo_Pregunta": "SiNo",
+      "Criterio_Asociado": "Oportunidad emergente",
+      "Texto_Pregunta": "¿Se activaron recursos, contactos o alianzas de la red que ya existían pero no se estaban aprovechando?",
+      "Peso_Eficacia": 0.7,
+      "Peso_Eficiencia": 0.3,
+      "Polaridad": "Positiva"
+    },
+    {
+      "ID_Pregunta": "REL_003",
+      "Eje_Tematico": "Relacional",
+      "Tipo_Pregunta": "Escala1a5",
+      "Criterio_Asociado": "Compromisos formales",
+      "Texto_Pregunta": "Los compromisos adquiridos con actores externos (formales o informales) se cumplieron según lo pactado.",
+      "Peso_Eficacia": 0.9,
+      "Peso_Eficiencia": 0.1,
+      "Polaridad": "Positiva"
+    },
+    {
+      "ID_Pregunta": "REL_004",
+      "Eje_Tematico": "Relacional",
+      "Tipo_Pregunta": "SiNo",
+      "Criterio_Asociado": "Compromisos formales",
+      "Texto_Pregunta": "¿Se incumplió o quedó pendiente algún compromiso adquirido con un actor externo a raíz de esta decisión?",
+      "Peso_Eficacia": 0.6,
+      "Peso_Eficiencia": 0.4,
+      "Polaridad": "Negativa"
+    },
+    {
+      "ID_Pregunta": "REL_005",
+      "Eje_Tematico": "Relacional",
+      "Tipo_Pregunta": "Escala1a5",
+      "Criterio_Asociado": "Claridad de roles relacionales",
+      "Texto_Pregunta": "Los roles y responsabilidades de los actores externos involucrados en esta decisión quedaron claramente definidos.",
+      "Peso_Eficacia": 0.3,
+      "Peso_Eficiencia": 0.7,
+      "Polaridad": "Positiva"
+    },
+    {
+      "ID_Pregunta": "REL_006",
+      "Eje_Tematico": "Relacional",
+      "Tipo_Pregunta": "SiNo",
+      "Criterio_Asociado": "Vinculación de nuevos actores",
+      "Texto_Pregunta": "¿Se vinculó a un nuevo actor, aliado o colaborador externo como resultado directo de esta decisión?",
+      "Peso_Eficacia": 0.8,
+      "Peso_Eficiencia": 0.2,
+      "Polaridad": "Positiva"
+    },
+    {
+      "ID_Pregunta": "ADA_001",
+      "Eje_Tematico": "Adaptativa",
+      "Tipo_Pregunta": "Escala1a5",
+      "Criterio_Asociado": "Alineación con el objetivo",
+      "Texto_Pregunta": "El resultado de esta decisión cumplió directamente con las metas o propósitos a mediano/largo plazo del proyecto.",
+      "Peso_Eficacia": 1.0,
+      "Peso_Eficiencia": 0.0,
+      "Polaridad": "Positiva"
+    },
+    {
+      "ID_Pregunta": "ADA_002",
+      "Eje_Tematico": "Adaptativa",
+      "Tipo_Pregunta": "SiNo",
+      "Criterio_Asociado": "Alineación con el objetivo",
+      "Texto_Pregunta": "¿Esta decisión modificó conscientemente el rumbo o enfoque original del proyecto?",
+      "Peso_Eficacia": 0.7,
+      "Peso_Eficiencia": 0.3,
+      "Polaridad": "Positiva"
+    },
+    {
+      "ID_Pregunta": "ADA_003",
+      "Eje_Tematico": "Adaptativa",
+      "Tipo_Pregunta": "Escala1a5",
+      "Criterio_Asociado": "Impacto esperado",
+      "Texto_Pregunta": "El impacto real que tuvo la decisión sobre el proyecto o la comunidad fue alto y justificó el movimiento.",
+      "Peso_Eficacia": 1.0,
+      "Peso_Eficiencia": 0.0,
+      "Polaridad": "Positiva"
+    },
+    {
+      "ID_Pregunta": "ADA_004",
+      "Eje_Tematico": "Adaptativa",
+      "Tipo_Pregunta": "SiNo",
+      "Criterio_Asociado": "Impacto esperado",
+      "Texto_Pregunta": "¿El impacto real fue distinto (mayor o menor) al que se anticipaba antes de tomar la decisión?",
+      "Peso_Eficacia": 0.5,
+      "Peso_Eficiencia": 0.5,
+      "Polaridad": "Positiva"
+    },
+    {
+      "ID_Pregunta": "ADA_005",
+      "Eje_Tematico": "Adaptativa",
+      "Tipo_Pregunta": "Escala1a5",
+      "Criterio_Asociado": "Riesgo asumible",
+      "Texto_Pregunta": "La decisión resolvió con éxito una contingencia imprevista del entorno sin desviar el rumbo del colectivo.",
+      "Peso_Eficacia": 0.7,
+      "Peso_Eficiencia": 0.3,
+      "Polaridad": "Positiva"
+    },
+    {
+      "ID_Pregunta": "ADA_006",
+      "Eje_Tematico": "Adaptativa",
+      "Tipo_Pregunta": "SiNo",
+      "Criterio_Asociado": "Riesgo asumible",
+      "Texto_Pregunta": "¿Se activó un plan de contingencia o ruta alternativa (Plan B) ante un riesgo que se materializó?",
+      "Peso_Eficacia": 0.6,
+      "Peso_Eficiencia": 0.4,
+      "Polaridad": "Positiva"
+    }
+  ]
+}

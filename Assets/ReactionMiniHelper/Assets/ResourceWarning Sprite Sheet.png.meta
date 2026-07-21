@@ -1,0 +1,697 @@
+fileFormatVersion: 2
+guid: d9ec385e55acba34c9b1275274d8bffd
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -4652796610078698995
+    second: eb502465-f606-4707-b56d-44c79ae6f902-ezgif.com-gif-to-sprite-converter_0
+  - first:
+      213: 6579327030383195457
+    second: eb502465-f606-4707-b56d-44c79ae6f902-ezgif.com-gif-to-sprite-converter_1
+  - first:
+      213: -4657530072528697720
+    second: eb502465-f606-4707-b56d-44c79ae6f902-ezgif.com-gif-to-sprite-converter_2
+  - first:
+      213: -1382909979546748541
+    second: eb502465-f606-4707-b56d-44c79ae6f902-ezgif.com-gif-to-sprite-converter_3
+  - first:
+      213: -2394867859199770631
+    second: eb502465-f606-4707-b56d-44c79ae6f902-ezgif.com-gif-to-sprite-converter_4
+  - first:
+      213: -9116119040875846043
+    second: eb502465-f606-4707-b56d-44c79ae6f902-ezgif.com-gif-to-sprite-converter_5
+  - first:
+      213: 6748538106520984991
+    second: eb502465-f606-4707-b56d-44c79ae6f902-ezgif.com-gif-to-sprite-converter_6
+  - first:
+      213: -6459409825424388405
+    second: eb502465-f606-4707-b56d-44c79ae6f902-ezgif.com-gif-to-sprite-converter_7
+  - first:
+      213: 5300665970459364913
+    second: eb502465-f606-4707-b56d-44c79ae6f902-ezgif.com-gif-to-sprite-converter_8
+  - first:
+      213: -606291770083542395
+    second: eb502465-f606-4707-b56d-44c79ae6f902-ezgif.com-gif-to-sprite-converter_9
+  - first:
+      213: -7902446272732050905
+    second: eb502465-f606-4707-b56d-44c79ae6f902-ezgif.com-gif-to-sprite-converter_10
+  - first:
+      213: -9214438674988324840
+    second: eb502465-f606-4707-b56d-44c79ae6f902-ezgif.com-gif-to-sprite-converter_11
+  - first:
+      213: 7370182696598600965
+    second: eb502465-f606-4707-b56d-44c79ae6f902-ezgif.com-gif-to-sprite-converter_12
+  - first:
+      213: 8421533809083874746
+    second: eb502465-f606-4707-b56d-44c79ae6f902-ezgif.com-gif-to-sprite-converter_13
+  - first:
+      213: -6811562506215754097
+    second: eb502465-f606-4707-b56d-44c79ae6f902-ezgif.com-gif-to-sprite-converter_14
+  - first:
+      213: -6765795800756445927
+    second: eb502465-f606-4707-b56d-44c79ae6f902-ezgif.com-gif-to-sprite-converter_15
+  - first:
+      213: -2433107259540097527
+    second: eb502465-f606-4707-b56d-44c79ae6f902-ezgif.com-gif-to-sprite-converter_16
+  - first:
+      213: 4764270435588462567
+    second: eb502465-f606-4707-b56d-44c79ae6f902-ezgif.com-gif-to-sprite-converter_17
+  - first:
+      213: 6365788580745141644
+    second: eb502465-f606-4707-b56d-44c79ae6f902-ezgif.com-gif-to-sprite-converter_18
+  - first:
+      213: -124826388452375539
+    second: eb502465-f606-4707-b56d-44c79ae6f902-ezgif.com-gif-to-sprite-converter_19
+  - first:
+      213: -2777500238011307795
+    second: eb502465-f606-4707-b56d-44c79ae6f902-ezgif.com-gif-to-sprite-converter_20
+  - first:
+      213: 4729100534337740864
+    second: eb502465-f606-4707-b56d-44c79ae6f902-ezgif.com-gif-to-sprite-converter_21
+  - first:
+      213: -2756127820800094102
+    second: eb502465-f606-4707-b56d-44c79ae6f902-ezgif.com-gif-to-sprite-converter_22
+  - first:
+      213: 7346139610679609694
+    second: eb502465-f606-4707-b56d-44c79ae6f902-ezgif.com-gif-to-sprite-converter_23
+  - first:
+      213: -1082514469761114973
+    second: eb502465-f606-4707-b56d-44c79ae6f902-ezgif.com-gif-to-sprite-converter_24
+  - first:
+      213: 2104419581302306015
+    second: eb502465-f606-4707-b56d-44c79ae6f902-ezgif.com-gif-to-sprite-converter_25
+  - first:
+      213: 5343092457512904624
+    second: eb502465-f606-4707-b56d-44c79ae6f902-ezgif.com-gif-to-sprite-converter_26
+  - first:
+      213: 7949934309542525513
+    second: eb502465-f606-4707-b56d-44c79ae6f902-ezgif.com-gif-to-sprite-converter_27
+  - first:
+      213: -4419702102577451599
+    second: eb502465-f606-4707-b56d-44c79ae6f902-ezgif.com-gif-to-sprite-converter_28
+  - first:
+      213: 1855106298134380519
+    second: eb502465-f606-4707-b56d-44c79ae6f902-ezgif.com-gif-to-sprite-converter_29
+  - first:
+      213: 4619354007765182503
+    second: eb502465-f606-4707-b56d-44c79ae6f902-ezgif.com-gif-to-sprite-converter_30
+  - first:
+      213: -5421928575851095407
+    second: eb502465-f606-4707-b56d-44c79ae6f902-ezgif.com-gif-to-sprite-converter_31
+  - first:
+      213: 3514116290436817204
+    second: eb502465-f606-4707-b56d-44c79ae6f902-ezgif.com-gif-to-sprite-converter_32
+  - first:
+      213: 4846157375800509258
+    second: eb502465-f606-4707-b56d-44c79ae6f902-ezgif.com-gif-to-sprite-converter_33
+  - first:
+      213: -1655856421344784499
+    second: eb502465-f606-4707-b56d-44c79ae6f902-ezgif.com-gif-to-sprite-converter_34
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 2
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 512
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 4096
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WindowsStoreApps
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: ResourceWarning Sprite Sheet_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 512
+        height: 512
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1912b022c0519024b833442d99516a74
+      internalID: 2073132551
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ResourceWarning Sprite Sheet_1
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 0
+        width: 512
+        height: 512
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 64aa6d245bcc18b4b916e00ebb490d05
+      internalID: 1256272175
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ResourceWarning Sprite Sheet_2
+      rect:
+        serializedVersion: 2
+        x: 1024
+        y: 0
+        width: 512
+        height: 512
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 90627a26c3b4d9140ae9ac2945c026a7
+      internalID: 1582107077
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ResourceWarning Sprite Sheet_3
+      rect:
+        serializedVersion: 2
+        x: 1536
+        y: 0
+        width: 512
+        height: 512
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 51d585bea196b19419daf75e71797da5
+      internalID: 1129547665
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ResourceWarning Sprite Sheet_4
+      rect:
+        serializedVersion: 2
+        x: 2048
+        y: 0
+        width: 512
+        height: 512
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8d49e2e693323cc46a14ba35284bad1e
+      internalID: -1447348755
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ResourceWarning Sprite Sheet_5
+      rect:
+        serializedVersion: 2
+        x: 2560
+        y: 0
+        width: 512
+        height: 512
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 52d26656ae373204da5b2998a1613cb3
+      internalID: -567412832
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ResourceWarning Sprite Sheet_6
+      rect:
+        serializedVersion: 2
+        x: 3072
+        y: 0
+        width: 512
+        height: 512
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 82cc676a3f559434299ab13af5df30cb
+      internalID: 1758315542
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ResourceWarning Sprite Sheet_7
+      rect:
+        serializedVersion: 2
+        x: 3584
+        y: 0
+        width: 512
+        height: 512
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ccf5626a6a746e5459599c3035921451
+      internalID: 1035684648
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ResourceWarning Sprite Sheet_8
+      rect:
+        serializedVersion: 2
+        x: 4096
+        y: 0
+        width: 512
+        height: 512
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 452c58e5a36a4a84da3208da927d365f
+      internalID: -965259290
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ResourceWarning Sprite Sheet_9
+      rect:
+        serializedVersion: 2
+        x: 4608
+        y: 0
+        width: 512
+        height: 512
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b3ebf5eb5078aa647955de96a8098399
+      internalID: 322622827
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ResourceWarning Sprite Sheet_10
+      rect:
+        serializedVersion: 2
+        x: 5120
+        y: 0
+        width: 512
+        height: 512
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d6702e6003b628947a00555659872a44
+      internalID: -1977871537
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ResourceWarning Sprite Sheet_11
+      rect:
+        serializedVersion: 2
+        x: 5632
+        y: 0
+        width: 512
+        height: 512
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e24354928abf41c4683f88e94f77af3a
+      internalID: -905625324
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ResourceWarning Sprite Sheet_12
+      rect:
+        serializedVersion: 2
+        x: 6144
+        y: 0
+        width: 512
+        height: 512
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ba8b8f064b34e8c4a81918d937f4a357
+      internalID: -2025683422
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ResourceWarning Sprite Sheet_13
+      rect:
+        serializedVersion: 2
+        x: 6656
+        y: 0
+        width: 512
+        height: 512
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ee7083fe8d105fa48a7dc1b6b011e26e
+      internalID: -1403692467
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ResourceWarning Sprite Sheet_14
+      rect:
+        serializedVersion: 2
+        x: 7168
+        y: 0
+        width: 512
+        height: 512
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2602e067f8926724e91056e6565d5794
+      internalID: 18788806
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ResourceWarning Sprite Sheet_15
+      rect:
+        serializedVersion: 2
+        x: 7680
+        y: 0
+        width: 512
+        height: 512
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a5cc603b294cbf740ab98c8912eb3ffb
+      internalID: 463903233
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ResourceWarning Sprite Sheet_16
+      rect:
+        serializedVersion: 2
+        x: 8192
+        y: 0
+        width: 512
+        height: 512
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 43582788ce0b34a47885440c02b0e9f3
+      internalID: -1806682173
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ResourceWarning Sprite Sheet_17
+      rect:
+        serializedVersion: 2
+        x: 8704
+        y: 0
+        width: 512
+        height: 512
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e1d274969b74ca34a85e6d3b6f98a89b
+      internalID: -526584429
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ResourceWarning Sprite Sheet_18
+      rect:
+        serializedVersion: 2
+        x: 9216
+        y: 0
+        width: 512
+        height: 512
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3c683874b475d0a44be9504ade159272
+      internalID: -1690367483
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ResourceWarning Sprite Sheet_19
+      rect:
+        serializedVersion: 2
+        x: 9728
+        y: 0
+        width: 512
+        height: 512
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 21c838c4a7b98444e98149df33f64884
+      internalID: 1388513605
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 0e9b368d90885c346bb03614f6e0acef
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries:
+      - key: SpriteEditor.SliceSettings
+        value: '{"sliceOnImport":false,"gridCellCount":{"x":1.0,"y":1.0},"gridSpriteSize":{"x":512.0,"y":512.0},"gridSpriteOffset":{"x":0.0,"y":0.0},"gridSpritePadding":{"x":0.0,"y":0.0},"pivot":{"x":0.5,"y":0.5},"pivotPixels":{"x":0.0,"y":0.0},"autoSlicingMethod":0,"spriteAlignment":0,"pivotUnitMode":0,"slicingType":1,"keepEmptyRects":false,"isAlternate":false}'
+    nameFileIdTable:
+      ResourceWarning Sprite Sheet_0: 2073132551
+      ResourceWarning Sprite Sheet_1: 1256272175
+      ResourceWarning Sprite Sheet_10: -1977871537
+      ResourceWarning Sprite Sheet_11: -905625324
+      ResourceWarning Sprite Sheet_12: -2025683422
+      ResourceWarning Sprite Sheet_13: -1403692467
+      ResourceWarning Sprite Sheet_14: 18788806
+      ResourceWarning Sprite Sheet_15: 463903233
+      ResourceWarning Sprite Sheet_16: -1806682173
+      ResourceWarning Sprite Sheet_17: -526584429
+      ResourceWarning Sprite Sheet_18: -1690367483
+      ResourceWarning Sprite Sheet_19: 1388513605
+      ResourceWarning Sprite Sheet_2: 1582107077
+      ResourceWarning Sprite Sheet_3: 1129547665
+      ResourceWarning Sprite Sheet_4: -1447348755
+      ResourceWarning Sprite Sheet_5: -567412832
+      ResourceWarning Sprite Sheet_6: 1758315542
+      ResourceWarning Sprite Sheet_7: 1035684648
+      ResourceWarning Sprite Sheet_8: -965259290
+      ResourceWarning Sprite Sheet_9: 322622827
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

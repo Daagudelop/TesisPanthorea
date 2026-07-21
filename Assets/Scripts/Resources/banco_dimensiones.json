@@ -1,0 +1,76 @@
+{
+  "preguntas": [
+    {
+      "Codigo_Tipo": "EST-01",
+      "Tipo_Decision": "ESTRATÉGICA",
+      "Dimension_Enfoque": "RUTA GENERAL",
+      "Pregunta_Guia": "¿Esta decisión cambia el rumbo o enfoque del proyecto?"
+    },
+    {
+      "Codigo_Tipo": "EST-02",
+      "Tipo_Decision": "ESTRATÉGICA",
+      "Dimension_Enfoque": "LARGO PLAZO",
+      "Pregunta_Guia": "¿Afecta lo que el proyecto busca lograr a mediano o largo plazo?"
+    },
+    {
+      "Codigo_Tipo": "EST-03",
+      "Tipo_Decision": "ESTRATÉGICA",
+      "Dimension_Enfoque": "RED EXTERNA",
+      "Pregunta_Guia": "¿Implica vincular, coordinar o depender de otros actores?"
+    },
+    {
+      "Codigo_Tipo": "EST-04",
+      "Tipo_Decision": "ESTRATÉGICA",
+      "Dimension_Enfoque": "ALIANZAS",
+      "Pregunta_Guia": "¿Define con quién trabajamos o cómo nos relacionamos?"
+    },
+    {
+      "Codigo_Tipo": "OPE-01",
+      "Tipo_Decision": "OPERATIVA",
+      "Dimension_Enfoque": "EJECUCIÓN",
+      "Pregunta_Guia": "¿Esta decisión define una acción concreta que debe ejecutarse?"
+    },
+    {
+      "Codigo_Tipo": "OPE-02",
+      "Tipo_Decision": "OPERATIVA",
+      "Dimension_Enfoque": "ROLES / EQUIPO",
+      "Pregunta_Guia": "¿Organiza tareas, roles o responsabilidades del equipo?"
+    },
+    {
+      "Codigo_Tipo": "OPE-03",
+      "Tipo_Decision": "OPERATIVA",
+      "Dimension_Enfoque": "PROCESOS / MÉTODOS",
+      "Pregunta_Guia": "¿Implica elegir herramientas, procesos o métodos de trabajo?"
+    },
+    {
+      "Codigo_Tipo": "OPE-04",
+      "Tipo_Decision": "OPERATIVA",
+      "Dimension_Enfoque": "RESOLUCIÓN INMEDIATA",
+      "Pregunta_Guia": "¿Resuelve un problema inmediato de ejecución?"
+    },
+    {
+      "Codigo_Tipo": "CRE-01",
+      "Tipo_Decision": "CREATIVA",
+      "Dimension_Enfoque": "CONCEPTO / NARRATIVA",
+      "Pregunta_Guia": "¿Esta decisión afecta el concepto, narrativa o propuesta del proyecto?"
+    },
+    {
+      "Codigo_Tipo": "CRE-02",
+      "Tipo_Decision": "CREATIVA",
+      "Dimension_Enfoque": "EXPERIENCIA USUARIO",
+      "Pregunta_Guia": "¿Modifica lo que el usuario o público va a experimentar?"
+    },
+    {
+      "Codigo_Tipo": "CRE-03",
+      "Tipo_Decision": "CREATIVA",
+      "Dimension_Enfoque": "ENFOQUE CREATIVO",
+      "Pregunta_Guia": "¿Implica elegir entre diferentes ideas o enfoques creativos?"
+    },
+    {
+      "Codigo_Tipo": "CRE-04",
+      "Tipo_Decision": "CREATIVA",
+      "Dimension_Enfoque": "COMUNICACIÓN VISUAL",
+      "Pregunta_Guia": "¿Cambia la forma en que se representa o comunica el proyecto?"
+    }
+  ]
+}
